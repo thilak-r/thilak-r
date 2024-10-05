@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-driven projects like Fake News Detection and an AI Legal Advisor.<br>👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>🌱 I’m currently learning React, TensorFlow, and Keras for ML/DL projects.<br>💬 Ask me about Python, Flask, Django, and building real-time web applications.<br>
+<h1 style="font-family: 'Book Antiqua', serif;">🌟 About Me:</h1>
+<p style="font-family: 'Book Antiqua', serif;">
+🔭 I’m currently working on Python-based AI projects, focusing on developing machine learning algorithms and data analysis tools.<br>
+👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
+🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>
+💬 Ask me about Python, Flask, Django, and building real-time web applications.<br>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thilak_r_amalkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilak120) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thilak-R-47) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thilak-r)
@@ -23,8 +29,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=thilak-r&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thilak120)
