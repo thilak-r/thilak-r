@@ -1,4 +1,9 @@
-<h1 style="font-family: 'Book Antiqua', serif;">🌟 About Me:</h1>
+![Thilak R](https://raw.githubusercontent.com/thilak-r/thilak-r/main/profile..jpg)
+<h1 align="center">Hi 👋, I'm Thilak R.</h1>
+<h3 align="center">A Software Engineering Student with a Deep Passion for AI and Web Development</h3>
+
+
+<h1 style="font-family: 'Book Antiqua', serif;">
 <p style="font-family: 'Book Antiqua', serif;">
 🔭 I’m currently working on Python-based AI projects, focusing on developing machine learning algorithms and data analysis tools.<br>
 👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
