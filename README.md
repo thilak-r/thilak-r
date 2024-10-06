@@ -3,7 +3,7 @@
 <h3 align="center">A Software Engineering Student with a Deep Passion for AI and Web Development</h3>
 
 [![](https://visitcount.itsvg.in/api?id=thilak-r&icon=5&color=10)](https://visitcount.itsvg.in)
-![GitHub Member Since](https://img.shields.io/badge/GitHub-3_years-blue)
+![GitHub Member Since](https://img.shields.io/badge/GitHub-4_years-blue)
 
 <p style="font-family: 'Book Antiqua', serif;">
 🔭 I’m currently working on Python-based AI projects, focusing on developing machine learning algorithms and data analysis tools.<br>
