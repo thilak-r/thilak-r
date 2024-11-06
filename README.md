@@ -1,13 +1,14 @@
 ![Thilak R](https://raw.githubusercontent.com/thilak-r/thilak-r/main/propic.jpg)
 <h1 align="center">Hi 👋, I'm Thilak R.</h1>
-<h3 align="center">A Software Engineering Student with a Deep Passion for AI and Web Development</h3>
+<h3 align="center">A Software Engineering Student with a Deep Passion for ML and Web Development</h3>
 
 [![](https://visitcount.itsvg.in/api?id=thilak-r&icon=5&color=10)](https://visitcount.itsvg.in)
+
 ![GitHub Member Since](https://img.shields.io/badge/GitHub-4_years-blue)
 
 <p style="font-family: 'Book Antiqua', serif;">
  🌟 Self-motivated programmer<br>
-🔭 I’m currently working on Python-based AI projects, focusing on developing machine learning algorithms and data analysis tools.<br>
+🔭 I’m currently working on Python-based ML projects, focusing on developing machine learning algorithms and data analysis tools.<br>
 👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>
 💬 Ask me about Python, Flask, Django, and building real-time web applications.<br>
@@ -55,8 +56,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/thilak-r">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilak-r&theme=radical&border=7F3FBF&background=0D1117" alt="Thilak's GitHub streak"/>
+  <a href="https://github.com/thilak-r/">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilak-r&theme=radical&border=7F3FBF&background=0D1117" alt="Thilak's GitHub streak"/>
+
   </a>
 </p>
 
