@@ -57,10 +57,10 @@
 
 <p align="center">
   <a href="https://github.com/thilak-r/">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilak-r&theme=radical&border=7F3FBF&background=0D1117" alt="Thilak's GitHub streak"/>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=thilak-r&show_icons=true&theme=radical" alt="Thilak's GitHub stats"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thilak-r&theme=radical" alt="Thilak's GitHub Contribution"/>
