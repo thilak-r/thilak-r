@@ -53,13 +53,6 @@
 
 
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/thilak-r/">
-    <img src="https://github-readme-stats.vercel.app/api?username=thilak-r&show_icons=true&theme=radical" alt="Thilak's GitHub stats"/>
-  </a>
-</p>
 
 
 <p align="center">
