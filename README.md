@@ -55,8 +55,10 @@
 
 
 
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thilak-r&theme=radical" alt="Thilak's GitHub Contribution"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilak-r&theme=highcontrast&hide_border=true" alt="Thilak's GitHub Streak" />
 </p>
 
 <p align="left">
@@ -68,6 +70,7 @@
 </p>
 
 ![Thilak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thilak-r&custom_title=Thilak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 
 
