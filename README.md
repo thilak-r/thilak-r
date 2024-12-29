@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thilak R.</h1>
 <h3 align="center">A Software Engineering Student with a Deep Passion for ML and Web Development</h3>
 
-[![visit count](https://visitcount.itsvg.in/api?id=thilak-r&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thilak-r&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ![GitHub Member Since](https://img.shields.io/badge/GitHub-4_years-blue)
 
