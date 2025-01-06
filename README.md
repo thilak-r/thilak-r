@@ -1,13 +1,14 @@
 ![Thilak R](https://raw.githubusercontent.com/thilak-r/thilak-r/main/propic.jpg)
-<h1 align="center">Hi 👋, I'm Thilak R.</h1>
-<h3 align="center">A Software Engineering Student with a Deep Passion for ML and Web Development</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=500&size=21&duration=5999&pause=989&color=8AC5F7&center=true&vCenter=true&repeat=false&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Thilak+R)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=thilak-r&icon=5&color=10)](https://visitcount.itsvg.in)
+<h3 align="center" color="blue">A Software Engineering Student with a Deep Passion for ML and Web Development</h3>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthilak-r&count_bg=%233D85C8&title_bg=%23555555&icon=icomoon.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![GitHub Member Since](https://img.shields.io/badge/GitHub-4_years-blue)
 
 <p style="font-family: 'Book Antiqua', serif;">
- 🌟 Self-motivated programmer<br>
+ 🌟 A self-motivated programmer<br>
 🔭 I’m currently working on Python-based ML projects, focusing on developing machine learning algorithms and data analysis tools.<br>
 👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>
@@ -78,7 +79,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=thilak-r&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Dev Quote" />
+</p>
 
 
 
