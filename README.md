@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="http://www.github.com/thilak-r">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilak-r&stroke=ffffff&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakNum=ffffff&currStreakLabel=1E90FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thilak-r&theme=black-ice&hide_border=true&border_radius=10.6" alt="GitHub Streak" /></a>
 </a>
 </p>
 
