@@ -51,9 +51,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-<a href="http://www.github.com/thilak-r">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thilak-r&theme=black-ice&hide_border=true&border_radius=10.6" alt="GitHub Streak" /></a>
-</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilak-r" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="left">
