@@ -15,6 +15,7 @@
 👯 I’m looking to collaborate on web development, machine learning, and AI applications.<br>
 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>
 💬 Ask me about Python, Flask, Django, and building real-time web applications.<br>
+  👨‍💻 visit my portfolio : https://thilak-r.github.io/portfolio <br>
 </p>
 
 ### Connect with Me
@@ -27,6 +28,7 @@
     <img src="https://img.shields.io/badge/-Stackoverflow-1E90FF?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </p>
+
 
 ### Skills
 
