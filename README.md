@@ -16,6 +16,8 @@
 🌱 I’m currently using Flutter, TensorFlow, and Keras for ML/DL projects.<br>
 💬 Ask me about Python, Flask, Django, and building real-time web applications.<br>
   👨‍💻 visit my portfolio : https://thilak-r.github.io/portfolio <br>
+  <br>
+   <a href="https://www.buymeacoffee.com/thilak"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=thilak&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
 
 ### Connect with Me
@@ -27,8 +29,9 @@
   <a href="https://stackoverflow.com/users/27639478/thilak-r" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-1E90FF?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-</p>
+ 
 
+</p>
 
 ### Skills
 
